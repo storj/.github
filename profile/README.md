@@ -1,5 +1,6 @@
 # Storj - Decentralized Cloud Storage!
 
-* [Documentation](https://docs.storj.io)
 * [Sign up!](https://www.storj.io)
-* [Whitepaper](https://www.storj.io/storjv3.pdf)
+* [User documentation](https://docs.storj.io)
+* [Our whitepaper](https://www.storj.io/storjv3.pdf)
+* [How to contribute](https://github.com/storj/storj/wiki)
