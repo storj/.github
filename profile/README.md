@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/storj/.github/assets/3217669/09ebca09-5e77-44be-ba71-b048b4d13bfb">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/storj/.github/assets/3217669/db6a76c8-a8f8-4396-8ff1-be24f9cf54a5">
-  <img alt="Storj logo" src="https://github.com/storj/.github/assets/3217669/db6a76c8-a8f8-4396-8ff1-be24f9cf54a5" height="100">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/storj/.github/assets/3217669/15b2f86d-e585-430f-83f8-67cccda07f73">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/storj/.github/assets/3217669/de7657b7-0497-4b72-8d71-99bf210164dc">
+  <img alt="Storj logo" src="https://github.com/storj/.github/assets/3217669/de7657b7-0497-4b72-8d71-99bf210164dc" height="100">
 </picture>
 
 # Storj - Decentralized Cloud Storage!
