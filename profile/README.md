@@ -4,11 +4,11 @@
   <img alt="Storj logo" src="https://raw.githubusercontent.com/storj/.github/main/assets/storj-logo-full-color.png" height="100">
 </picture>
 
-# Storj - Decentralized Cloud Storage!
+# Storj - Globally Distributed Cloud Storage!
 
 Storj is an S3-compatible platform and suite of decentralized applications that
-allows you to store data in a secure and decentralized manner. Your files are
-encrypted, broken into little pieces and stored in a global decentralized
+allows you to store data in a secure and globally distributed manner. Your files are
+encrypted, broken into little pieces and stored in a global
 network of computers. Luckily, we also support allowing you (and only you) to
 retrieve those files!
 
